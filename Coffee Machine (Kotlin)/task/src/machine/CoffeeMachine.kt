@@ -64,33 +64,6 @@ class CoffeeMachine(private var water: Int = 400, private var milk: Int = 540, p
             }
         }
 
-
-
-        /*fun updateCoffeeMachine() {
-            println("Write how many ml of water the coffee machine has:")
-            val waterlv = readln().toInt()
-
-            println("Write how many ml of milk the coffee machine has:>")
-            val milklv = readln().toInt()
-
-            println("Write how many grams of coffee beans the coffee machine has:>")
-            val beans = readln().toInt()
-
-            println("How many dispossal cups You want to add:>")
-            val availableCups = readln().toInt()
-            water += waterlv; milk += milklv
-            coffeeBeans += beans; cups += availableCups
-            amount += 0
-            //coffeeMachineMainMenu()
-        }
-
-        fun updateTotalAmount() {
-            println("I gave you $${DEFAULT_AMOUNT}\n")
-            DEFAULT_AMOUNT = 0
-            //coffeeMachineMainMenu()
-        }*/
-
-
     }
 
     fun updateCoffeeMachine(coffeeMachine: CoffeeMachine) {
