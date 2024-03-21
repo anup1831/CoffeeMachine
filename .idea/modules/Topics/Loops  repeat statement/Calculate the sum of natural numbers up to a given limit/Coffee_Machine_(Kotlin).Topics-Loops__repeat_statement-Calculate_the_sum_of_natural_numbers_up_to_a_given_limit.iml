@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Loops__repeat_statement-Calculate_the_sum_of_natural_numbers_up_to_a_given_limit" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine (Kotlin)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Loops  repeat statement/Calculate the sum of natural numbers up to a given limit/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

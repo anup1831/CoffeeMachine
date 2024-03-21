@@ -1,0 +1,31 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      // Import necessary Kotlin libraries
+      import java.util.*
+      
+      fun main(args: Array<String>) {
+          // Create a scanner object for getting input
+          val scanner = Scanner(System.`in`)
+      
+          // Read the input number
+          val N = scanner.nextInt()
+      
+          // Variable to store the sum
+          var sum = 0
+      
+          // Write a repeat loop here to add the numbers from 1 to N to the sum variable
+      
+          // Output the sum
+          println(sum)
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41523#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 14 Mar 2024 09:08:42 UTC"
+record: -1
+submission_language: kotlin

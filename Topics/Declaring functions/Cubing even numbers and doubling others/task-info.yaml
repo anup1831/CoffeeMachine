@@ -1,0 +1,31 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      // Importing required libraries
+      import kotlin.math.pow
+      
+      // Start writing your function here.
+      // You may decide to name your function whatever you prefer
+      
+      /*
+       * This function should take a parameter of type integer. It should return a value.
+       * If the provided integer is even, it should return the cube of that number.
+       * Otherwise, it should return double that number.
+       */
+      fun yourFunctionName(number: Int): Int {
+          // Your code goes here
+      }
+      
+      /*
+       * Note: to cube a number in Kotlin, you can use the 'pow' function, like this: number.toDouble().pow(3).toInt()
+       * Note2: to check if a number is even in Kotlin, you can use the modulo operator '%', like this: number % 2 == 0
+       * Note3: to double a number in Kotlin, you can use the '*' operator, like this: number * 2
+       */
+      '
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43619#comment
+status: Solved
+record: -1
+submission_language: kotlin
